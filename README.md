@@ -1,2 +1,2 @@
-# Bit-manipulation-
-It contains important bit manipulation topics.
+# Algorithm documentation-
+It contains the content about how to make algorithm documentation. 
